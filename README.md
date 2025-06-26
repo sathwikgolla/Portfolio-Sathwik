@@ -6,6 +6,19 @@ This project showcases who I am, the skills I possess, the projects I’ve worke
 ## 🌐 Live Demo
 
 Check out the live version here: [Your Live Site Link](https://your-portfolio-link.com)
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/1.png)
+
+### 👤 About Me Section
+![About Me](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/2.png)
+
+### 🧩 Projects Section
+![Projects](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/3.png)
+
+### 📬 Contact Section
+![Contact](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/4.png)
 
 ## 📂 Features
 
@@ -40,17 +53,5 @@ cd your-portfolio-repo
 npm install
 npm run dev
 
-## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/1.png)
-
-### 👤 About Me Section
-![About Me](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/2.png)
-
-### 🧩 Projects Section
-![Projects](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/3.png)
-
-### 📬 Contact Section
-![Contact](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/4.png)
 
