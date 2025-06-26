@@ -40,3 +40,16 @@ cd your-portfolio-repo
 npm install
 npm run dev
 
+## 🖼️ Screenshots
+
+### 🔹 Homepage
+![Homepage](./1.png)
+
+### 🔹 About Me Section
+![About Me](./2.png)
+
+### 🔹 Projects Section
+![Projects](./3.png)
+
+### 🔹 Contact Section
+![Contact](./4.png)
