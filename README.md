@@ -40,16 +40,17 @@ cd your-portfolio-repo
 npm install
 npm run dev
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-### 🔹 Homepage
-![Homepage](./1.png)
+### 🏠 Homepage
+![Homepage](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/1.png)
 
-### 🔹 About Me Section
-![About Me](./2.png)
+### 👤 About Me Section
+![About Me](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/2.png)
 
-### 🔹 Projects Section
-![Projects](./3.png)
+### 🧩 Projects Section
+![Projects](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/3.png)
 
-### 🔹 Contact Section
-![Contact](./4.png)
+### 📬 Contact Section
+![Contact](https://raw.githubusercontent.com/sathwikgolla/Portfolio-Sathwik/main/4.png)
+
